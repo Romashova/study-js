@@ -1,5 +1,6 @@
-# study-js
+# Learn JavaScript
 
 Author:
+**Irina Romashova**
 
-Irina Romashova
+>I study JavaScript
